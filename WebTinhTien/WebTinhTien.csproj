@@ -47,7 +47,8 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="ThuVienTinhTienKhachSan">
+    <Reference Include="ThuVienTinhTienKhachSan, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\ThuVienTinhTienKhachSan\bin\Debug\ThuVienTinhTienKhachSan.dll</HintPath>
     </Reference>
   </ItemGroup>
