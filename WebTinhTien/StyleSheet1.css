@@ -33,6 +33,7 @@
         border: none;
         border-radius: 5px;
         cursor: pointer;
+        margin:10px 0px 10px 0px ;
     }
 
         .form-group button:hover {
